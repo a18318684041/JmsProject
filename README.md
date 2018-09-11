@@ -1,6 +1,7 @@
 # JmsProject
 
 1、实现JMS与activemq的使用。
+
 （1）实现了Point-to-Point Messaging Domain （点对点即P2P），队列模式。
 
     每个消息最好只有一个消费者，如果使用多个消费者，每个消费者只能随机接收其中的几条。
